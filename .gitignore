@@ -1,3 +1,6 @@
 SG_DATA/venv/
 
 NN/venv/
+
+.vscode/
+.vscode/settings.json
