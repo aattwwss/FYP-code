@@ -4,3 +4,7 @@ NN/venv/
 
 .vscode/
 .vscode/settings.json
+SG_DATA/CZ4041/test_identity.csv
+SG_DATA/CZ4041/test_transaction.csv
+SG_DATA/CZ4041/train_identity.csv
+SG_DATA/CZ4041/train_transaction.csv
