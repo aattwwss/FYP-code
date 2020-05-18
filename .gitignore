@@ -1,7 +1,7 @@
 SG_DATA/venv/
 
 NN/venv/
-
+singapore/venv/
 .vscode/
 .vscode/settings.json
 SG_DATA/CZ4041/test_identity.csv
